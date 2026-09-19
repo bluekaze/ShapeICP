@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+
+# Others
+nocs_shape_classification/
+nocs_third_party_results/
+pca/
+code_cleanup.md
