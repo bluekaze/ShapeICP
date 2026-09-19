@@ -1,6 +1,9 @@
 # Python cache
 __pycache__/
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
 # Others
 nocs_shape_classification/
 nocs_third_party_results/
